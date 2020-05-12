@@ -1,4 +1,4 @@
-# x16-Png2Binary
+# x16-Png2Bin
 This is a help for importing sprites, tiles and images into your Commander X16 application. It converts a png image file to a binary file that you can use directly in your assembly program. It only works with images that have a color depth of four bits (= 16 colors). This is a .NET application to be used from the command line and therefore only works in Windows.
 
 1. Draw your sprites/tiles/image in an application like paint.net. If you are drawing sprites or tiles, set the bitmap to the width of your sprites/tiles and then place them all vertically. (Not very practical, I know...)
